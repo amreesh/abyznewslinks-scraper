@@ -197,7 +197,7 @@ def mediasources(country, url, subcountry=None):
             print link, 'length:', len(link)
             print mediatype, 'length:', len(mediatype)
             print mediafocus, 'length:', len(mediafocus)
-            raise ValueError("table columns are different lengths!")
+	    raise ValueError("table columns are different lengths!")
         
         # append to table
         allregion += region
@@ -238,8 +238,11 @@ if __name__ == "__main__" and RUN == True:
             allframes += [mediasources(country, ROOTURL + sub[0])]
         else:
             for region, url in sub[1].iteritems():
-                allframes += [mediasources(country, ROOTURL + url[0], subcountry=region)]
-    
+                try:
+                  allframes += [mediasources(country, ROOTURL + url[0], subcountry=region)]
+    		except ValueError:
+		  continue
+
     allmedia = pd.concat(allframes)
     
     mediatypelegend = {'BC': 'broadcast', 

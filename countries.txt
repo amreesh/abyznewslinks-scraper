@@ -1,0 +1,265 @@
+Canada
+Saint Martin
+Sao Tome and Principe
+Turkmenistan
+Saint Helena
+Lithuania
+Cambodia
+Switzerland
+Ethiopia
+Aruba
+Swaziland
+Svalbard and Jan Mayen Islands
+Palestine
+Argentina
+Bolivia
+Cameroon
+Burkina Faso
+Bahrain
+Saudi Arabia
+Rwanda
+South Georgia and South Sandwich Islands
+Pacific Regional
+Japan
+American Samoa
+Northern Mariana Islands
+Slovenia
+Guatemala
+Asia Regional
+Bosnia and Herzegovina
+Kuwait
+Jordan
+Saint Barthelemy
+Dominica
+Liberia
+Maldives
+French Caribbean
+Jamaica
+Oman
+Tanzania
+Martinique
+North America Regional
+United States Virgin Islands
+Christmas Island
+French Guiana
+Niue
+Central Africa Republic
+Monaco
+New Zealand
+Yemen
+European Union
+Jersey
+Latin America
+Andorra
+Albania
+Samoa
+Macau
+Nicaragua
+United Arab Emirates
+Guam
+Uruguay
+India
+Azerbaijan
+Lesotho
+Asia Pacific
+Kenya
+South Korea
+Tajikistan
+Turkey
+Afghanistan
+Bangladesh
+Mauritania
+Solomon Islands
+Turks and Caicos Islands
+Saint Lucia
+San Marino
+French Polynesia
+France
+Bermuda
+Slovakia
+Somalia
+Peru
+Laos
+Saint Vincent and  Grenadines
+International
+Nauru
+Seychelles
+Norway
+Cote d'Ivoire
+Cook Islands
+Benin
+Western Sahara
+Cuba
+Montenegro
+Saint Kitts and Nevis
+Togo
+China
+Armenia
+Dominican Republic
+Mongolia
+Nigeria
+South America Regional
+Ghana
+Tonga
+Cayman Islands
+Libya
+Finland
+New Caledonia
+Mauritius
+Liechtenstein
+Belarus
+British Virgin Islands
+Central America Regional
+Mali
+Sweden
+Saint Pierre and Miquelon
+Russia
+Bulgaria
+United States
+Romania
+Angola
+Chad
+South Africa
+Cyprus
+Near and Middle East Regional
+Brunei Darussalam
+Qatar
+Malaysia
+Austria
+Vietnam
+Mozambique
+Uganda
+Hungary
+Niger
+Isle of Man
+Americas Regional
+Brazil
+Falkland Islands
+Pitcairn
+Guinea
+Panama
+Costa Rica
+Luxembourg
+Cape Verde
+Bahamas
+Gibraltar
+Ireland
+Pakistan
+Palau
+Faeroe Islands
+Ukraine
+Ecuador
+Congo Brazzaville
+Australia
+Iran
+British Caribbean
+Algeria
+El Salvador
+Tuvalu
+Czech Republic
+Marshall Islands
+Chile
+Puerto Rico
+Belgium
+Kiribati
+Haiti
+Belize
+Hong Kong
+Sierra Leone
+Georgia
+Denmark
+Philippines
+Guinea Bissau
+Dutch Caribbean
+Moldova
+Morocco
+East Africa Regional
+Croatia
+Micronesia
+Guernsey
+Thailand
+Namibia
+Grenada
+Wallis and Futuna Islands
+Bonaire
+Portugal
+Estonia
+Kosovo
+Norfolk Island
+Caribbean Regional
+Lebanon
+Uzbekistan
+Tunisia
+Djibouti
+Greenland
+Antigua and Barbuda
+Spain
+Colombia
+Reunion
+Burundi
+Taiwan
+Fiji
+Barbados
+Cocos Islands
+Madagascar
+Italy
+Curacao
+Bhutan
+Sudan
+Nepal
+Malta
+Netherlands
+Suriname
+Anguilla
+Venezuela
+Saba
+Holy See
+Israel
+Indonesia
+Iceland
+Zambia
+Senegal
+Papua New Guinea
+Malawi
+Gabon
+Trinidad and Tobago
+Zimbabwe
+Germany
+Vanuatu
+Gambia
+Europe Regional
+United Nations
+Kazakhstan
+Poland
+Eritrea
+Kyrgyzstan
+Mayotte
+Iraq
+Montserrat
+Mexico
+Macedonia
+Timor Leste
+North Korea
+Sri Lanka
+Latvia
+South Sudan
+Africa Regional
+Guyana
+Syria
+Guadeloupe
+Sint Maarten
+Honduras
+Myanmar
+Equatorial Guinea
+Egypt
+French Southern and Antarctic Lands
+Singapore
+Serbia
+Botswana
+United Kingdom
+Antarctica
+Greece
+Paraguay
+Congo Kinshasa
+Comoros
+Canada British Columbia
